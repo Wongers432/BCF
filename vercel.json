@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/hypixel/:path*",
+      "destination": "https://api.hypixel.net/:path*"
+    }
+  ]
+}
