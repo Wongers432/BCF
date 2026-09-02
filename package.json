@@ -1,0 +1,25 @@
+{
+  "name": "skyblock-flipper",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "98.css": "^0.1.21",
+    "lucide-react": "^1.39.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "skyblock-assets": "^2.0.11",
+    "unzipper": "^0.12.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.12",
+    "@vitejs/plugin-react": "^5.0.2",
+    "tailwindcss": "^4.1.12",
+    "vite": "^7.1.3"
+  }
+}
