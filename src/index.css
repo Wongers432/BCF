@@ -532,6 +532,10 @@ body {
 
 .cy-blink { animation: cy-blink 1.4s ease-in-out infinite; }
 
-
+.cy-title-jp,
+.cy-title-sep,
+.cy-th-jp {
+  display: none !important;
+}
 
 
