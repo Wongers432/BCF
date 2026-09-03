@@ -22,8 +22,8 @@
   --text-dim:      rgba(200, 216, 255, 0.42);
   --text-num:      #e0efff;
 
-  --font-display:  'Orbitron', 'Courier New', monospace;
-  --font-body:     'Rajdhani', 'Segoe UI', sans-serif;
+  --font-display: 'Chakra Petch', 'Segoe UI', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
 
   --glow-cyan:    0 0 7px var(--neon-cyan), 0 0 22px rgba(0, 245, 255, 0.22);
   --glow-magenta: 0 0 7px var(--neon-magenta), 0 0 22px rgba(255, 45, 255, 0.22);
